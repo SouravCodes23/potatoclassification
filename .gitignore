@@ -1,0 +1,20 @@
+# Ignore IDE settings
+.idea/
+.vscode/
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environments
+.env
+venv/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
